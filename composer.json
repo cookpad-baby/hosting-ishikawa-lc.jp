@@ -71,7 +71,6 @@
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
     "cookpad-baby/simple-seo-pack": "dev-master",
     "wpackagist-plugin/amazon-s3-and-cloudfront": "*",
-    "wpackagist-plugin/breadcrumb-navxt": "*",
     "wpackagist-plugin/custom-post-type-permalinks": "*",
     "wpackagist-plugin/custom-post-type-ui": "*",
     "wpackagist-plugin/google-sitemap-generator": "*",
@@ -79,7 +78,8 @@
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
-    "wpackagist-plugin/wp-super-cache": "*"
+    "wpackagist-plugin/wp-super-cache": "*",
+    "wpackagist-plugin/ajax-calendar": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.4.2",
