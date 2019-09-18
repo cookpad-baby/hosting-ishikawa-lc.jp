@@ -25,7 +25,7 @@ Config::define('AS3CF_SETTINGS', serialize([
   // Enable object prefix, useful if you use your bucket for other files
   'enable-object-prefix' => true,
   // Object prefix to use if 'enable-object-prefix' is 'true'
-  'object-prefix' => 'BASE/uploads/',
+  'object-prefix' => 'ishikawa-lc.jp/uploads/',
   // Organize bucket files into YYYY/MM directories
   'use-yearmonth-folders' => true,
   // Serve files over HTTPS
