@@ -46,7 +46,7 @@
       "type": "package",
       "package": {
         "name": "advanced-custom-fields/advanced-custom-fields-pro",
-        "version": "5.8.4",
+        "version": "5.8.5",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
@@ -157,6 +157,19 @@
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/wp-super-cache/{%version}/ja.zip",
+          "reference": "master"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "koodimonni-plugin-language/taxonomy-terms-order-ja",
+        "type": "wordpress-language",
+        "version": "1.5.7",
+        "dist": {
+          "type": "zip",
+          "url": "https://downloads.wordpress.org/translation/plugin/taxonomy-terms-order/{%version}/ja.zip",
           "reference": "master"
         }
       }
