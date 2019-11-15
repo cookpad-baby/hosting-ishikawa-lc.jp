@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dadc45c090dada7f809ffc8ce38a9b40",
+    "content-hash": "72ed07ca6cd32f6c37dc656f3b7d7d13",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -1023,24 +1023,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wordpress-importer/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-admin-ui-customize",
-            "version": "1.5.12",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-admin-ui-customize/",
-                "reference": "tags/1.5.12"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-admin-ui-customize.1.5.12.zip"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-admin-ui-customize/"
         },
         {
             "name": "wpackagist-plugin/wp-dashboard-notes",
