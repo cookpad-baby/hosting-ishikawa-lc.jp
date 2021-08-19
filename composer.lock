@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4076d27dfc0a916a9815362bfcf2e28e",
+    "content-hash": "9269452615b1b19c9374590352130062",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -445,7 +445,7 @@
         },
         {
             "name": "koodimonni-plugin-language/wp-fastest-cache-ja",
-            "version": "0.9.2",
+            "version": "0.9.3",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/{%version}/ja.zip"
@@ -1562,15 +1562,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-fastest-cache",
-            "version": "0.9.2",
+            "version": "0.9.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-fastest-cache/",
-                "reference": "tags/0.9.2"
+                "reference": "tags/0.9.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-fastest-cache.0.9.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-fastest-cache.0.9.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
